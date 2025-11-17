@@ -2,7 +2,7 @@ param(
     [string]$alertMessage
 )
 
-$webhookUrl = "https://NEXTCLOUDURL:PORT/ocs/v2.php/apps/spreed/api/v1/chat/4dt2cq6f"
+$webhookUrl = "https://NEXTCLOUDURL:PORT/ocs/v2.php/apps/spreed/api/v1/chat/GROUP_CHAT_OR_CHANNEL_CODE"
 $username = "USERNAME"
 $appPassword = "APP_PASSWORD"
 
